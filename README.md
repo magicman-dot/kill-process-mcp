@@ -1,4 +1,4 @@
-# kill-process-mcp
+# kill-process-mcp 🔫
 
 Cross-platform **MCP** (Model Context Protocol) server exposing tools to **list and kill OS processes** via natural language queries.
 
@@ -17,7 +17,7 @@ Perfect for shy ninjas who just want rogue processes gone!
 The following tools are exposed to MCP clients:
 
 - `process_list`: Lists running processes sorted by CPU or memory with optional name, user, status, CPU/memory thresholds, system-process filtering, sort order and limit
-- `process_kill`: Kills the selected process
+- `process_kill`: Terminates the selected process (with extreme prejudice!)
 
 <a id="requirements"></a>
 ## Requirements
@@ -92,8 +92,8 @@ Restart your LLM client and it should be able to talk to the `kill-process-mcp` 
 
 In `Claude Desktop` you can check if the server is installed by going to **Profile → Settings → Integrations**.
 
-<a id="example-prompts"></a>
-## Example Prompts
+<a id="example-hit-contracts"></a>
+## Example Hit Contracts
 
 Here are some example prompts you can use with your MCP-compatible AI assistant when interacting with this MCP server:
 
