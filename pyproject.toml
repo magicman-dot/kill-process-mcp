@@ -1,0 +1,18 @@
+[project]
+name = "kill-process-mcp"
+version = "1.0"
+description = "Cross-platform MCP server exposing tools to list and kill OS processes"
+readme = "README.md"
+license = "GPL-3.0-or-later"
+license-files = ["LICEN[CS]E*"]
+authors = [{ name = "Michal Szymanski", email = "misiektoja-github@rm-rf.ninja" }]
+requires-python = ">=3.13"
+dependencies = [
+  "mcp>=1.9.4",
+  "psutil"
+]
+
+[project.urls]
+Homepage = "https://github.com/misiektoja/kill-process-mcp"
+Source   = "https://github.com/misiektoja/kill-process-mcp"
+Changelog= "https://github.com/misiektoja/kill-process-mcp/blob/main/RELEASE_NOTES.md"
