@@ -6,6 +6,10 @@ Perfect for shy ninjas who just want rogue processes gone!
 
 > **"Find and nuke the damn CPU glutton choking my system!"**
 
+<a href="https://glama.ai/mcp/servers/@misiektoja/kill-process-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@misiektoja/kill-process-mcp/badge" alt="kill-process-mcp MCP server" />
+</a>
+
 <a id="demo"></a>
 ## Demo
 
